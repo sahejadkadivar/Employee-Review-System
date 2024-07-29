@@ -76,8 +76,6 @@ Employee Review System/
 
 ![Screenshot 2](assets/images/SS_2.png)
 ![Screenshot 3](assets/images/SS_3.png)
-![Screenshot 4](assets/images/SS_4.png)
-![Screenshot 5](assets/images/SS_5.png)
 ![Screenshot 6](assets/images/SS_6.png)
 
 ## Contributing
