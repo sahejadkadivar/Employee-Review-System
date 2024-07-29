@@ -84,6 +84,7 @@ Feel free to contribute to this project by creating issues or submitting pull re
 To experience admin view kindly use following credentials.
 -  User's email: admin@email.com
 -  password: 12345
+
 link for trial is:
 [click here to experience it!](https://placement-cell-application-gfgo.onrender.com)
 
