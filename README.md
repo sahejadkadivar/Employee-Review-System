@@ -86,7 +86,7 @@ To experience admin view kindly use following credentials.
 -  password: 12345
 
 link for trial is:
-[click here to experience it!](https://placement-cell-application-gfgo.onrender.com)
+[click here to experience it!](https://employee-review-system-nlcl.onrender.com)
 
 ## Authors
 
